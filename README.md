@@ -1,6 +1,6 @@
 # Welcome to the Beautiful Game of Backgammon.
 ### by Elias Olcina and Max Dinkelspiel
-This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. It was supposed to be focused on functional programming and this game is based on 26 functions. We wanted a challenge and therefore decided to have a go at the game of Backgammon, which is full of "case-dependent" rules and require a lot of conditional logic.
+This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. It was supposed to focus on functional programming and this game is based on 26 functions. We wanted a challenge and therefore decided to have a go at the game of Backgammon, which is full of "case-dependent" rules and require a lot of conditional logic.
 
 According to Wikipedia:
 > *Backgammon is a two-player game of contrary movement in which each player has fifteen pieces, known traditionally as 'men' (short for 'tablemen') but increasingly known as 'checkers' in the US in recent decades. These pieces move along twenty-four 'points' according to the roll of two dice.* </br>
@@ -13,7 +13,7 @@ According to Wikipedia:
 This is how we present the board in the console for players to play. The board with the white background is the jupyter representation</br>
 ![The Game Board](https://i.imgur.com/eHEGr4J.png) 
 
-The game is played by first rolling a die each to determine who goes first. The player with the highest roll use the dice just rolled to play their first turn. We promting the user to input which point they want to move from to which point they want move.
+The game is played by first rolling a die each to determine who goes first. The player with the highest roll use the dice just rolled to play their first turn. To make a move in the game, we prompt the user to input from which point they want to move a checker, and to which point they want to move it. Two random dice are generated for each turn.
 
 
 
@@ -49,10 +49,9 @@ From which row do you want to move a marker? (1-24):
 ```
 The numbers above and below the board are the indices that correspond to each point 
 
-We have removed the PIP score and the betting feature from the game since neither of us knows how that actually works and most people we know have never 
-played with the feature.
+We have removed the PIP score and the doubling cube from the game since most people play without it, however, a future improvement to the project would be to add that functionality as well as the possibility to play against the computer.
 
-In order to play the game you just have to download the python file and python it in your terminal/cmd. There are no real requirements.
+In order to play the game you just have to download the python file and python it in your terminal/cmd. Once you get python going, you can play backgammon until the end of your days!
 
 ```
 python main.py
