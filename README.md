@@ -1,5 +1,5 @@
-# Welcome to the beautiful game of Backgammon.
-This game was created as our first project as NOD Coding Bootcamp (BC#4) 2022. It was supposed to be focused on functional programming and we created around 25 function for the game. We wanted a challenge and therefore decided to have a go at the game of Backgammon.
+# Welcome to the Beautiful Game of Backgammon.
+This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. It was supposed to be focused on functional programming and we created around 25 function for the game. We wanted a challenge and therefore decided to have a go at the game of Backgammon.
 
 According to Wikipedia:
 > *Backgammon is a two-player game of contrary movement in which each player has fifteen pieces, known traditionally as 'men' (short for 'tablemen') but increasingly known as 'checkers' in the US in recent decades. These pieces move along twenty-four 'points' according to the roll of two dice.* </br>
@@ -48,10 +48,12 @@ From which row do you want to move a marker? (1-24):
 ```
 The numbers above and below the board are the indices that correspond to each point 
 
-We have removed the PIP score and the betting feature from the game since neither of us knows how that actually works and most people we know have never played with the feature.
+We have removed the PIP score and the betting feature from the game since neither of us knows how that actually works and most people we know have never 
+played with the feature.
 
 In order to play the game you just have to download the python file and python it in your terminal/cmd. There are no real requirements.
 
+by Elias Olcina and Max Dinkelspiel
 ```
 python main.py
 ```
