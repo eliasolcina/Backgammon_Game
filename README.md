@@ -1,5 +1,6 @@
 # Welcome to the Beautiful Game of Backgammon.
-This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. It was supposed to be focused on functional programming and we created around 25 function for the game. We wanted a challenge and therefore decided to have a go at the game of Backgammon.
+### by Elias Olcina and Max Dinkelspiel
+This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. It was supposed to be focused on functional programming and this game is based on 26 functions. We wanted a challenge and therefore decided to have a go at the game of Backgammon, which is full of "case-dependent" rules and require a lot of conditional logic.
 
 According to Wikipedia:
 > *Backgammon is a two-player game of contrary movement in which each player has fifteen pieces, known traditionally as 'men' (short for 'tablemen') but increasingly known as 'checkers' in the US in recent decades. These pieces move along twenty-four 'points' according to the roll of two dice.* </br>
@@ -53,7 +54,6 @@ played with the feature.
 
 In order to play the game you just have to download the python file and python it in your terminal/cmd. There are no real requirements.
 
-by Elias Olcina and Max Dinkelspiel
 ```
 python main.py
 ```
