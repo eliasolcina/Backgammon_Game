@@ -54,7 +54,7 @@ From which row do you want to move a marker? (1-24):
 ```
 The numbers above and below the board are the indices that correspond to each point 
 
-We have removed the PIP score and the doubling cube from the game since most people play without it, however, a future improvement to the project would be to add that functionality as well as the possibility to play against the computer.
+We have removed the PIP score and the doubling cube from the game since most people play without it, however, a future improvement to the project would be to add that functionality as well as the possibility to play against an AI.
 
 In order to play the game you just have to download the python file and python it in your terminal/cmd. Once you get python going, you can play backgammon until the end of your days!
 
