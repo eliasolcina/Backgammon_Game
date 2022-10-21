@@ -25,7 +25,10 @@ Remaining die/dice:
 |         |   |    o    |
 |      o  |   |      o  |
 + - - - - +   + - - - - +
+
 Current board:
+
+  P2 Finished Checkers:
   ₁ ₁ ₁ ₁ ₁ ₁   ₁ ₂ ₂ ₂ ₂ ₂
   ³ ⁴ ⁵ ⁶ ⁷ ⁸   ⁹ ⁰ ¹ ² ³ ⁴
 |━━━━━━━━━━━━━━━━━━━━━━━━━━━|
@@ -45,6 +48,8 @@ Current board:
 |━━━━━━━━━━━━━━━━━━━━━━━━━━━|
   ₁ ₁ ₁ ₀ ₀ ₀   ₀ ₀ ₀ ₀ ₀ ₀
   ² ¹ ⁰ ⁹ ⁸ ⁷   ⁶ ⁵ ⁴ ³ ² ¹
+  P1 Finished Checkers:
+  
 From which row do you want to move a marker? (1-24):
 ```
 The numbers above and below the board are the indices that correspond to each point 
