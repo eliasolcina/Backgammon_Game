@@ -1,4 +1,4 @@
-# Welcome to the Beautiful Game of Backgammon.
+# The Beautiful Game of Backgammon
 ### by Elias Olcina and Max Dinkelspiel
 This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. The goal of the project was to improve our understanding of functional programming, therefore this game is very "function-heavy". We chose to create a backgammon game because we wanted a challenge, and backgammon is full of "case-dependent" rules and require a lot of conditional logic.
 
@@ -25,7 +25,10 @@ Remaining die/dice:
 |         |   |    o    |
 |      o  |   |      o  |
 + - - - - +   + - - - - +
+
 Current board:
+
+P2 Finished Checkers:
   ₁ ₁ ₁ ₁ ₁ ₁   ₁ ₂ ₂ ₂ ₂ ₂
   ³ ⁴ ⁵ ⁶ ⁷ ⁸   ⁹ ⁰ ¹ ² ³ ⁴
 |━━━━━━━━━━━━━━━━━━━━━━━━━━━|
@@ -45,11 +48,13 @@ Current board:
 |━━━━━━━━━━━━━━━━━━━━━━━━━━━|
   ₁ ₁ ₁ ₀ ₀ ₀   ₀ ₀ ₀ ₀ ₀ ₀
   ² ¹ ⁰ ⁹ ⁸ ⁷   ⁶ ⁵ ⁴ ³ ² ¹
+P1 Finished Checkers:
+  
 From which row do you want to move a marker? (1-24):
 ```
 The numbers above and below the board are the indices that correspond to each point 
 
-We have removed the PIP score and the doubling cube from the game since most people play without it, however, a future improvement to the project would be to add that functionality as well as the possibility to play against the computer.
+We have removed the PIP score and the doubling cube from the game since most people play without it, however, a future improvement to the project would be to add that functionality as well as the possibility to play against an AI.
 
 In order to play the game you just have to download the python file and python it in your terminal/cmd. Once you get python going, you can play backgammon until the end of your days!
 
