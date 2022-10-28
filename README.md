@@ -1,7 +1,7 @@
 # The Beautiful Game of Backgammon
 ### by Elias Olcina and Max Dinkelspiel
 
-** This game is built in on a mac OS, therefore you may experience some bugs (mainly in terms of displaying the board and your moves). 
+** This game is built in on a mac OS, therefore you may experience some bugs (mainly in terms of displaying the board and your moves) if oyu are on a windows OS. 
 
 This game was created as our first project at NOD Coding Bootcamp (BC#4) 2022. The goal of the project was to improve our understanding of functional programming, therefore this game is very "function-heavy". We chose to create a backgammon game because we wanted a challenge, and backgammon is full of "case-dependent" rules and require a lot of conditional logic.
 
