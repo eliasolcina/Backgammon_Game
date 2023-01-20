@@ -1,4 +1,4 @@
-# The Beautiful Game of Backgammon
+# Backgammon
 ### by Elias Olcina and Max Dinkelspiel
 
 ** This game is built in on a mac OS, therefore you may experience some bugs (mainly in terms of displaying the board and your moves) if oyu are on a windows OS. 
